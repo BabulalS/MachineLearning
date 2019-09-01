@@ -1,1 +1,1 @@
-# MachineLearning
+# This folder contains classification problems
