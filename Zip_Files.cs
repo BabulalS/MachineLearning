@@ -1,0 +1,2 @@
+Executable: C:\Program Files\7-Zip\7z.exe
+Arguments: a "C:\VSS_CHECK_OUT\MI Automation\Tesco Weekly MI - REG1209211354W\Output\REG1209211354W Tesco Weekly MI-Week 26.zip" "C:\Users\ramb\Desktop\Projects\MI Automation\Tesco Weekly MI - REG1209211354W\Output\REG1209211354W Tesco Weekly MI-Week 26.xls" -P"TESCOB@nk2012
